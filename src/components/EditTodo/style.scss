@@ -1,0 +1,13 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border: 1px solid grey;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+
+  .img-button {
+    width: 15px;
+  }
+}
